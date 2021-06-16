@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Steam426Editor Editor Win64 Development (Steam426)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Robbie\\Documents\\Unreal Projects\\Steam426\\.vscode\\compileCommands_Steam426.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Robbie\\Documents\\Unreal Projects\\Steam426\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\\\Users\\\\Robbie\\\\Documents\\\\Unreal Projects\\\\Steam426\\\\Source\\\\Steam426\\\\MyClass.cpp",
+		"command": "cl.exe @\"C:\\Users\\Robbie\\Documents\\Unreal Projects\\Steam426\\.vscode\\compileCommands_Steam426\\Steam426.184.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Robbie\\\\Documents\\\\Unreal Projects\\\\Steam426\\\\Source\\\\Steam426\\\\MyClass.h",
+		"command": "cl.exe @\"C:\\Users\\Robbie\\Documents\\Unreal Projects\\Steam426\\.vscode\\compileCommands_Steam426\\Steam426.184.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Robbie\\\\Documents\\\\Unreal Projects\\\\Steam426\\\\Source\\\\Steam426\\\\Steam426.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\Robbie\\Documents\\Unreal Projects\\Steam426\\.vscode\\compileCommands_Steam426\\Steam426.184.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Robbie\\\\Documents\\\\Unreal Projects\\\\Steam426\\\\Source\\\\Steam426\\\\Steam426.cpp",
+		"command": "cl.exe @\"C:\\Users\\Robbie\\Documents\\Unreal Projects\\Steam426\\.vscode\\compileCommands_Steam426\\Steam426.184.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Robbie\\\\Documents\\\\Unreal Projects\\\\Steam426\\\\Source\\\\Steam426\\\\Steam426.h",
+		"command": "cl.exe @\"C:\\Users\\Robbie\\Documents\\Unreal Projects\\Steam426\\.vscode\\compileCommands_Steam426\\Steam426.184.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]
