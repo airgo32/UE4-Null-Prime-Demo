@@ -84,7 +84,7 @@ PACKAGE_SCOPE:
 	/** Only the factory makes instances */
 	FOnlineSubsystemNullPrime() = delete;
 	explicit FOnlineSubsystemNullPrime(FName InInstanceName) :
-		FOnlineSubsystemImpl(NULL_SUBSYSTEM, InInstanceName),
+		FOnlineSubsystemImpl(NULLPRIME_SUBSYSTEM, InInstanceName),
 		SessionInterface(nullptr),
 		VoiceInterface(nullptr),
 		bVoiceInterfaceInitialized(false),
