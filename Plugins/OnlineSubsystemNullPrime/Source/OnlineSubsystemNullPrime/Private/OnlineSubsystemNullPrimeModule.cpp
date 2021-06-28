@@ -9,6 +9,9 @@
 #include "OnlineSubsystemNullPrimePackage.h"
 #include "OnlineSubsystemNullPrime.h"
 
+//#include "OnlineSubsystemNullPrimeTypes.h"
+//#include "OnlineSubsystemUtilsModule.h"
+
 #define LOCTEXT_NAMESPACE "FOnlineSubsystemNullPrimeModule"
 
 IMPLEMENT_MODULE(FOnlineSubsystemNullPrimeModule, OnlineSubsystemNullPrime);
@@ -45,7 +48,8 @@ public:
 		return OnlineSub;
 	}
 };
-
+// 
+// CREATE_HASH(NULLPRIME_SUBSYSTEM);
 
 void FOnlineSubsystemNullPrimeModule::StartupModule()
 {

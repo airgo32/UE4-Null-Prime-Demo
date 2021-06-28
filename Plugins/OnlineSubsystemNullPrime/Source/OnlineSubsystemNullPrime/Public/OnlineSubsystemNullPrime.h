@@ -7,6 +7,8 @@
 #include "OnlineSubsystemNullPrimePackage.h"
 #include "HAL/ThreadSafeCounter.h"
 
+#include "OnlineSubsystemNullPrimeTypes.h"
+
 class FOnlineAchievementsNullPrime;
 class FOnlineIdentityNullPrime;
 class FOnlineLeaderboardsNullPrime;
