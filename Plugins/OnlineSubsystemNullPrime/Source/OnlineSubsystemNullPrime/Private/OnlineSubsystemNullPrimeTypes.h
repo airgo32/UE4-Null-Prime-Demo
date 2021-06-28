@@ -8,6 +8,10 @@
 
 class FOnlineSubsystemNullPrime;
 
+#ifndef NULLPRIME_SUBSYSTEM
+#define NULLPRIME_SUBSYSTEM FName(TEXT("NULLPRIME"))
+#endif
+
 // from OnlineSubsystemTypes.h
 TEMP_UNIQUENETIDSTRING_SUBCLASS(FUniqueNetIdNullPrime, NULLPRIME_SUBSYSTEM);
 
